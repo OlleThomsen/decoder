@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\ollet\OneDrive\Desktop\GitRepo\decoder\decoderv1\target\debug\build\typenum-fbb1633d9b20d6fa\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\ollet\OneDrive\Desktop\GitRepo\decoder\decoderv1\target\debug\build\typenum-fbb1633d9b20d6fa\out\op.rs
